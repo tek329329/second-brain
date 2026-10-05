@@ -1,0 +1,4 @@
+interface:
+  display_name: "Life OS Wiki"
+  short_description: "Synthesize records into linked wiki pages"
+  default_prompt: "Use $wiki to rebuild the wiki page for this topic."

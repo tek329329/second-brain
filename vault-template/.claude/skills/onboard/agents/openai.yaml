@@ -1,0 +1,4 @@
+interface:
+  display_name: "Life OS Onboard"
+  short_description: "Establish or update the profile records"
+  default_prompt: "Use $onboard to fill in missing profile areas."

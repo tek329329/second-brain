@@ -1,0 +1,4 @@
+interface:
+  display_name: "Life OS Plan"
+  short_description: "Plan across school, business, and health"
+  default_prompt: "Use $plan to plan this."

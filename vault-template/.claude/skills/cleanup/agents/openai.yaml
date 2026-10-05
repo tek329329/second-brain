@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vault Cleanup"
+  short_description: "Archive stale records and fix links, routes, and stale pages"
+  default_prompt: "Run $cleanup on this vault."
+policy:
+  allow_implicit_invocation: false

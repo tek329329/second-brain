@@ -1,0 +1,6 @@
+interface:
+  display_name: "Life OS Link"
+  short_description: "Link a source into the right Life OS route"
+  default_prompt: "Use $link to add this source to my Life OS routing."
+policy:
+  allow_implicit_invocation: false
